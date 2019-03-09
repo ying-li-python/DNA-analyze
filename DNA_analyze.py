@@ -14,7 +14,7 @@ while repeat == "y":
 
 	# if there are non-DNA letters, print error message
 	if invalid_dna > 0: 
-		print("\n This is an invalid DNA sequence! Please try again. \n")
+		print("\n This is not a valid DNA sequence! Please try again. \n")
 	
 	# if valid, then continue to analyze the DNA
 	elif invalid_dna == 0:
