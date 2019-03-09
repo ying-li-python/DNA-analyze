@@ -80,7 +80,8 @@ while repeat == "y":
 				print("NOTE: Your sequence is under 18 bp. It might be too short." + "\n")
 			elif countseq in range(18, 22): 
 				print("Your sequence is within the recommended 18-22 bp range." + "\n")	
-			
+
+	# asks user if they want to analyze another DNA sequence		
 	repeat = input("Do you want to analyze another DNA sequence (y/n)?")
 			
 		
