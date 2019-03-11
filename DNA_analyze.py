@@ -1,6 +1,7 @@
-# this script is designed to analyze a DNA sequence continously 
-# user will paste a DNA sequence 
- 
+# This script is designed for a user to paste a DNA sequence (5' -> 3') in terminal. The output 
+# would give the GC content (%), sequence length, and reverse complemntary sequence (5' -> 3')
+
+
 # create a while loop  
 repeat = "y"
 
