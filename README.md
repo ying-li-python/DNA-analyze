@@ -1,4 +1,4 @@
-# DNA analyze
+# DNA analysis in terminal
 
 This is a script designed to allow users to analyze their DNA sequence in terminal for PCR primer construction. 
 
