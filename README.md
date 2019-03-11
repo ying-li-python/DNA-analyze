@@ -1,6 +1,6 @@
 # DNA analysis in terminal
 
-This is a script designed to allow users to analyze their DNA sequence in terminal for PCR primer construction. 
+If you want to quickly look whether a DNA sequence is appropriate for PCR primer construction, try to run this script in terminal!
 
 > Example: 
 <html>
