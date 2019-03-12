@@ -1,7 +1,14 @@
-# This script is designed for a user to paste a DNA sequence (5' -> 3') in terminal. The output 
-# would give the GC content (%), sequence length, and reverse complemntary sequence (5' -> 3')
+"""
+This script is designed for a user to analyze a DNA sequence for creating primers for PCR/sequencing. 
 
+The output (in terminal): 
+GC content (%) 
+Sequence length 
+Reverse complemntary sequence (5' -> 3')
 
+Example: $ python DNA_analyze.py
+
+"""
 # create a while loop  
 repeat = "y"
 
@@ -44,7 +51,7 @@ while repeat == "y":
 					T+=1
 
 		# solution to calculate GC content 
-		gc = (G+C+0. ) / (A+T+C+G+0. ) * 100
+		gc = round((G+C+0. ) / (A+T+C+G+0. ) * 100), 2)
 			
 		# this is to create the complementary reverse sequence 	
 		dna = cap_sequence
