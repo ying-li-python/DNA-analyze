@@ -1,10 +1,12 @@
 """
 This script is designed for a user to analyze a DNA sequence for creating primers for PCR/sequencing. 
 
-The output (in terminal): 
+Resulting output (in terminal): 
 GC content (%) 
 Sequence length 
 Reverse complemntary sequence (5' -> 3')
+
+Note: If there is a non-DNA letter in the sequence, the script will give an error.
 
 Example: $ python DNA_analyze.py
 
