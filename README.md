@@ -22,12 +22,12 @@ Output:
 After printing the results, script will automatically asks the user if you would like to analyze another DNA sequence. 
 
 
-### Errors 
+## Errors 
 If your DNA sequence contains a non-DNA letter, an error will pop-up and the script will not run.
 ```
 This is not a valid DNA sequence! Please try again.  
 ```
-### Methods 
+## Methods 
 We would like the script to show: 
 - %GC content 
 - Sequence length 
@@ -35,9 +35,9 @@ We would like the script to show:
 
 For this script, we created nested for-loops and while loops, ```if else``` statements, ```.replace()``` and ```len()``` function. 
 
-### Author 
+## Author 
 - Ying Li 
 
-### Acknowledgements 
+## Acknowledgements 
 - [Python for Biologists](https://pythonforbiologists.com/) by Dr. Martin Jones
 
