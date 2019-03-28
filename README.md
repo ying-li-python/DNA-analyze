@@ -1,8 +1,8 @@
 # DNA analysis for primer construction 
 
-Tired of creating primers by hand? It's time-consuming because primers need to have specific requirements to be efficient for DNA seqeuncing or PCR/qPCR. 
+Tired of generating primers by guessing and trying to predict which nucleotide sequence fits the requirements for PCR/qPCR? This was extremely time-consuming because I had to do this for every gene I wanted to investigate.
 
-Luckily, I created a Python program that will tell you whether your primer sequence meets the criteria for efficiency. 
+To make my PhD research easier, I created a Python program that will tell you whether your primer sequence meets the criteria for efficiency. 
 
 ## Getting Started
 You will need to download this folder, and in command line, route to this folder using cd command and run this script. 
