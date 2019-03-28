@@ -1,6 +1,8 @@
 # DNA analysis for primer construction 
 
-Tired of performing DNA sequence requirements for primer construction by hand? This folder contains a Python script that reports the length, %GC content, and reverse complementary sequence of a DNA sequence. 
+Tired of creating primers by hand? It's time-consuming because primers need to have specific requirements to be efficient for DNA seqeuncing or PCR/qPCR. 
+
+Luckily, there is a Python program that will tell you whether your primer sequence meets the criteria for efficiency. 
 
 ## Getting Started
 You will need to download this folder, and in command line, route to this folder using cd command and run this script. 
