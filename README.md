@@ -1,4 +1,4 @@
-# DNA analysis for primer construction 
+# DNA analysis for primer construction [![contributions welcome](https://img.shields.io/badge/contributions-welcome-brightgreen.svg?style=flat)](https://github.com/dwyl/esta/issues)
 
 Tired of generating primers by guessing and trying to predict which nucleotide sequence fits the requirements for PCR/qPCR? This was extremely time-consuming because I had to do this for every gene I wanted to investigate.
 
