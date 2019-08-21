@@ -8,10 +8,10 @@ Reverse complemntary sequence (5' -> 3')
 
 Note: If there is a non-DNA letter in the sequence, the script will give an error.
 
-Example: $ python DNA_analyze.py
+Example: $ python main.py
 
 """
-# create a while loop  
+# while loop to continue 
 repeat = "y"
 
 while repeat == "y": 
