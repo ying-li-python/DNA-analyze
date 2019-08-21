@@ -8,8 +8,8 @@ To make my PhD research easier, I created a Python program that will tell you wh
 You will need to download this folder, and in command line, route to this folder using cd command and run this script. 
 
 ```
-git clone https://github.com/ying-li-python/DNA_analyze.git
-cd DNA_analyze
+git clone https://github.com/ying-li-python/DNA-analyze.git
+cd DNA-analyze
 python DNA_analyze.py
 ```
 
