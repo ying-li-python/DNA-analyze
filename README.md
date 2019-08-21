@@ -10,7 +10,7 @@ You will need to download this folder, and in command line, route to this folder
 ```
 git clone https://github.com/ying-li-python/DNA-analyze.git
 cd DNA-analyze
-python DNA_analyze.py
+python main.py
 ```
 
 The script will run and will ask you to paste a DNA sequence. 
